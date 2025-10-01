@@ -1,0 +1,2 @@
+# password-strength-checker-task-3
+task 3
